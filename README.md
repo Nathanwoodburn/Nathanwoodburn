@@ -3,7 +3,7 @@
 
 - Visit my Personal Website at [nathan.woodburn.id.au](https://nathan.woodburn.id.au)
 
-- Visit my personal website on [Handshake](https://handshake.org/) at [nathanwoodburn/](https://nathanwoodburn/)
+- Visit my personal website on [Handshake](https://handshake.org/) at [nathan.woodburn/](https://nathan.woodburn/)
 
 - Visit my business website at [nathan3dprinting.business](https://nathan3dprinting.business)
 
