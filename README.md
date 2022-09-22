@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nathan Woodburn</h1>
 <h3 align="center">I'm interested in 3D Printing, Arduino and C# Programming</h3>
 
-- Visit my Personal Website at [nathan.woodburn.id.au](https://nathan.woodburn.id.au)
+- Visit my Personal Website at [nathan.woodburn.au](https://nathan.woodburn.au)
 
 - Visit my personal website on [Handshake](https://handshake.org/) at [nathan.woodburn/](https://nathan.woodburn/)
 
 - Visit my business website at [nathan3dprinting.business](https://nathan3dprinting.business)
 
-- 📫 How to reach me **contact@nathan.woodburn.id.au**
+- 📫 How to reach me **contact@nathan.woodburn.au**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
