@@ -20,16 +20,8 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support Me:</h3>
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="DYPQW25VX6Y2N" />
-<input type="hidden" name="no_recurring" value="0" />
-<input type="hidden" name="item_name" value="Thank You for your support" />
-<input type="hidden" name="currency_code" value="AUD" />
-<input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1" />
-</form>
-<br>
-<p align="left">Prefer Crypto? Check out my wallet addresses at <a href="https://github.com/Nathanwoodburn/Nathanwoodburn.github.io/tree/master/.well-known/wallets">nathanwoodburn/nathanwoodburn.github.io/.well-known/wallets</p>
+<p align="left"><a href="https://www.paypal.com/donate/?business=DYPQW25VX6Y2N&no_recurring=0&item_name=Thank+you+for+your+support%21&currency_code=AUD">Support me via PayPal</a><br>
+Or prefer Crypto? Check out my wallet addresses at <a href="https://github.com/Nathanwoodburn/Nathanwoodburn.github.io/tree/master/.well-known/wallets">nathanwoodburn/nathanwoodburn.github.io/.well-known/wallets</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanwoodburn&show_icons=true&theme=dark&locale=en" alt="nathanwoodburn" /></p>
 
