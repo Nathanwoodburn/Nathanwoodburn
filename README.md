@@ -14,6 +14,7 @@
 <a href="https://twitter.com/woodburn_nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="woodburn_nathan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nathanwoodburn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanwoodburn" height="30" width="40" /></a>
 <a href="https://fb.com/nathanjwoodburn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nathanjwoodburn" height="30" width="40" /></a>
+<a href="https://discord.gg/p4dm8uWkwC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nathan.Woodburn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
