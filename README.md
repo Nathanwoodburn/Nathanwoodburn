@@ -40,6 +40,7 @@
 
 
 <h3 align="left">Support Me:</h3>
-<p>You can support me by donating to my PayPal or Crypto wallets</p>
+<p>You can support me directly on GitHub by sponsoring me.</p>
+<p>Alternatively, you can support me by donating to my PayPal or Crypto wallets</p>
 <p align="left"><a href="https://www.paypal.com/donate/?business=DYPQW25VX6Y2N&no_recurring=0&item_name=Thank+you+for+your+support%21&currency_code=AUD">Support me via PayPal</a><br>
 Or prefer Crypto? Check out my wallet addresses at <a href="https://github.com/Nathanwoodburn/Nathanwoodburn.github.io/tree/master/.well-known/wallets">nathanwoodburn/nathanwoodburn.github.io/.well-known/wallets</p>
