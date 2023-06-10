@@ -17,13 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/nathanwoodburn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nathanwoodburn" height="30" width="40" /></a>
 <a href="https://twitter.com/woodburn_nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="woodburn_nathan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nathanwoodburn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanwoodburn" height="30" width="40" /></a>
 <a href="https://fb.com/nathanjwoodburn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nathanjwoodburn" height="30" width="40" /></a>
 <a href="https://instagram.com/nathanjwoodburn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanjwoodburn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@nathanjwoodburn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nathanjwoodburn" height="30" width="40" /></a>
-<a href="https://discord.gg/v9CgkxkmKb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="v9CgkxkmKb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nathanjwoodburn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nathanjwoodburn" height="30" width="40" /></a>
+<a href="https://l.woodburn.au/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
