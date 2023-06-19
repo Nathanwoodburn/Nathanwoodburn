@@ -39,6 +39,17 @@
 
 
 <h3 align="left">Support Me:</h3>
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1NKZDDA9zzqjBukd5WJn2Nkn"
+  publishable-key="pk_live_51MWvbDA9zzqjBukdfMtYwpuKQvDZhw9wn9cxtdFqXNjLE8U0RPSnMJVfA429VKxL49UDUVvZFcrJX1BDe3eJI1FD00yiWMRpgV"
+>
+</stripe-buy-button>
+
+
 <p>You can support me directly on GitHub by sponsoring me.</p>
 <p>Alternatively, you can support me by donating to my PayPal or Crypto wallets</p>
 <p align="left"><a href="https://www.paypal.com/donate/?business=DYPQW25VX6Y2N&no_recurring=0&item_name=Thank+you+for+your+support%21&currency_code=AUD">Support me via PayPal</a><br>
