@@ -38,19 +38,9 @@
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=nathanwoodburn&theme=matrix" alt="nathanwoodburn" /></p>
 
 
-<h3 align="left">Support Me:</h3>
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+# Support Me:
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1NKZDDA9zzqjBukd5WJn2Nkn"
-  publishable-key="pk_live_51MWvbDA9zzqjBukdfMtYwpuKQvDZhw9wn9cxtdFqXNjLE8U0RPSnMJVfA429VKxL49UDUVvZFcrJX1BDe3eJI1FD00yiWMRpgV"
->
-</stripe-buy-button>
-
-
-<p>You can support me directly on GitHub by sponsoring me.</p>
-<p>Alternatively, you can support me by donating to my PayPal or Crypto wallets</p>
-<p align="left"><a href="https://www.paypal.com/donate/?business=DYPQW25VX6Y2N&no_recurring=0&item_name=Thank+you+for+your+support%21&currency_code=AUD">Support me via PayPal</a><br>
-Or prefer Crypto? Check out my wallet addresses at <a href="https://github.com/Nathanwoodburn/Nathanwoodburn.github.io/tree/master/.well-known/wallets">nathanwoodburn/nathanwoodburn.github.io/.well-known/wallets</p>
+[![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Nathanwoodburn) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nathanwoodburn) 
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://donate.stripe.com/8wM6pv0VD08Xe408ww) 
+[![Crypto](https://img.shields.io/badge/Crypto-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/Nathanwoodburn/Nathanwoodburn.github.io/tree/master/.well-known/wallets) 
