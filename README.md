@@ -7,9 +7,9 @@
 
 - 🔗 Also available on Handshake [nathan.woodburn/](https://nathan.woodburn/)
 
-- 🌱 I’m currently learning **Java & Haskell**
+- 🌱 I’m currently learning **Java & Android**
 
-- 💬 Ask me about **Handshake, nginx, DNS, DANE (SSL)**
+- 💬 Ask me about **Handshake, Nginx, DNS, DANE (SSL)**
 
 - 🤝 Visit the Handshake Australia site [hns.au/](https://hns.au/)
 
