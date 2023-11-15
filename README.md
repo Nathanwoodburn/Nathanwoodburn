@@ -5,6 +5,8 @@
 
 - 💻 Visit my personal website at [nathan.woodburn.au/](https://nathan.woodburn.au/)
 
+- Visit my Git server to see what I'm working on [git.woodburn.au/](https://git.woodburn.au/)
+
 - 🔗 Also available on Handshake [nathan.woodburn/](https://nathan.woodburn/)
 
 - 🌱 I’m currently learning **Java & Android**
