@@ -43,4 +43,4 @@
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Nathanwoodburn) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nathanwoodburn) 
 [![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://donate.stripe.com/8wM6pv0VD08Xe408ww) 
-[![Crypto](https://img.shields.io/badge/Crypto-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/Nathanwoodburn/Nathanwoodburn.github.io/tree/master/.well-known/wallets) 
+[![Crypto](https://img.shields.io/badge/Crypto-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://nathan.woodburn.au/donate) 
