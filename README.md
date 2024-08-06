@@ -9,7 +9,7 @@
 
 - 🔗 Also available on Handshake [nathan.woodburn/](https://nathan.woodburn/)
 
-- 🌱 I’m currently learning **Databases, networking and CPU organization**
+- 🌱 I’m currently learning **Concurrency, Cyber Security and C**
 
 - 💬 Ask me about **Handshake, Nginx, DNS, DANE (SSL)**
 
