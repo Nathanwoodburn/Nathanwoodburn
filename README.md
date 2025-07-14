@@ -1,3 +1,12 @@
+<div style="position: relative; width: 100%;">
+    <img src="./assets/images/BlueMountains.jpg" alt="Profile Background Image" width="100%" height="auto">
+    <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: xxx-large; font-weight: bold;">Nathan.Woodburn/</h1>
+</div>
+
+
+
+
+
 <h1 align="center">G'day, I'm Nathan Woodburn</h1>
 <h3 align="center">I'm interested in Handshake, 3D Printing, self hosting, and a ton of programing</h3>
 
