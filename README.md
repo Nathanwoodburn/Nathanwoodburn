@@ -4,18 +4,18 @@
 
 ### G'day, I'm a computing student with experience in DNS, Linux system administration, server infrastructure, and decentralized technologies
 
-I host [gitea](https://git.woodburn.au/) for my projects so feel free to check them out. Ask me about Handshake, Nginx, DNS or anything else you see here!
+I host [gitea](https://git.woodburn.au/) for my projects so feel free to check them out.  
+Ask me about Linux, Python scripting, DNS or anything tech related!
 
 ### Connect with me:
 <p align="left">
 <a href="https://twitter.com/woodburn_nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="woodburn_nathan" height="30" width="40" /></a>
 <a href="https://l.woodburn.au/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nathanjwoodburn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nathanjwoodburn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nathanwoodburn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanwoodburn" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanwoodburn&show_icons=true&theme=dark&locale=en&layout=donut&hide=html,css,javascript" alt="nathanwoodburn" /></p>
 
