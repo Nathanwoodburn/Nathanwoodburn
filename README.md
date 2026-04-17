@@ -6,7 +6,7 @@
 
 I mainly use my [Git server](https://git.woodburn.au/) for my projects so this Github account is often missing projects.  
 
-### Connect with me: [Contact](https://nathan.woodburn.au/contact) | [LinkedIn](https://www.linkedin.com/in/nathan-woodburn/) | [Twitter](https://twitter.com/NathanWoodburn) 
+### Connect with me: [Contact](https://nathan.woodburn.au/contact) | [LinkedIn](https://www.linkedin.com/in/nathanwoodburn/) | [Twitter](https://twitter.com/woodburn_nathan) 
 
 <p><img src="https://x4ws0w4kw0k00okkskscgsw0.c.woodburn.au/api/top-langs?username=nathanwoodburn&show_icons=true&theme=dark&locale=en&layout=donut&hide=html,css,javascript" alt="nathanwoodburn" /></p>
 
